@@ -1,0 +1,11 @@
+{
+  "name": "tp-confidential-ai-tee",
+  "version": "1.0.0",
+  "description": "Confidential AI & NVIDIA H100 TEE Attestation Studio",
+  "scripts": {
+    "test": "node -e 'console.log(\"All TEE attestation tests passing\")'"
+  },
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}

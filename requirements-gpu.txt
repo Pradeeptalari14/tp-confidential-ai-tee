@@ -1,0 +1,1 @@
+# Remote attestation runs on CPU/client; GPU hardware TEE is activated via driver
